@@ -4,6 +4,8 @@
 
 ## vue系列
 
+- [vue技术栈前端建设方案](https://github.com/omnipotent-front-end/blog/issues/5)
+
 ## Web安全
 
 - [使用SRI解决CDN劫持问题](https://github.com/omnipotent-front-end/blog/issues/1)

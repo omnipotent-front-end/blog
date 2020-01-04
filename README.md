@@ -23,3 +23,4 @@
 ## 设计模式
 
 - [工厂模式](https://github.com/omnipotent-front-end/blog/issues/6)
+- [单例模式](https://github.com/omnipotent-front-end/blog/issues/7)

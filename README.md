@@ -27,3 +27,4 @@
 - [代理模式](https://github.com/omnipotent-front-end/blog/issues/8)
 - [职责链模式](https://github.com/omnipotent-front-end/blog/issues/9)
 - [命令模式](https://github.com/omnipotent-front-end/blog/issues/10)
+- [装饰者模式](https://github.com/omnipotent-front-end/blog/issues/11)

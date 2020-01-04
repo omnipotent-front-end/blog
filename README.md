@@ -19,3 +19,7 @@
 ## 计算机网络
 
 - [localhost启动https的方式](https://github.com/omnipotent-front-end/blog/issues/4)
+
+## 设计模式
+
+- [工厂模式](https://github.com/omnipotent-front-end/blog/issues/6)

@@ -25,3 +25,4 @@
 - [工厂模式](https://github.com/omnipotent-front-end/blog/issues/6)
 - [单例模式](https://github.com/omnipotent-front-end/blog/issues/7)
 - [代理模式](https://github.com/omnipotent-front-end/blog/issues/8)
+- [职责链模式](https://github.com/omnipotent-front-end/blog/issues/9)

@@ -10,6 +10,7 @@
 ## Web安全
 
 - [使用SRI解决CDN劫持问题](https://github.com/omnipotent-front-end/blog/issues/1)
+- [前端工程配置项加密方案](https://github.com/omnipotent-front-end/blog/issues/13)
 
 ## Web性能缓存相关
 

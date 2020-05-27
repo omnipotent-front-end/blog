@@ -2,6 +2,10 @@
 
 无所不能的前端
 
+## 语法基础与原理
+
+- [async/await在打包中的原理](https://github.com/omnipotent-front-end/blog/issues/14)
+
 ## vue系列
 
 - [vue技术栈前端建设方案](https://github.com/omnipotent-front-end/blog/issues/5)

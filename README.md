@@ -34,3 +34,7 @@
 - [职责链模式](https://github.com/omnipotent-front-end/blog/issues/9)
 - [命令模式](https://github.com/omnipotent-front-end/blog/issues/10)
 - [装饰者模式](https://github.com/omnipotent-front-end/blog/issues/11)
+
+## 业务思考
+
+- [读增长黑客有感](https://github.com/omnipotent-front-end/blog/blob/master/articles/readblack.md)

@@ -26,6 +26,12 @@
 
 - [localhost启动https的方式](https://github.com/omnipotent-front-end/blog/issues/4)
 
+## 构建与部署
+
+- [统一部署平台下的企业级前端构建实践](https://github.com/omnipotent-front-end/blog/issues/17)
+
+- [云原生下的企业级前端构建实践](https://github.com/omnipotent-front-end/blog/issues/18)
+
 ## 设计模式
 
 - [工厂模式](https://github.com/omnipotent-front-end/blog/issues/6)

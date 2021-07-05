@@ -32,6 +32,8 @@
 
 - [云原生下的企业级前端构建实践](https://github.com/omnipotent-front-end/blog/issues/18)
 
+- [如何封装CI专用的基础镜像](https://github.com/omnipotent-front-end/blog/issues/19)
+
 ## 设计模式
 
 - [工厂模式](https://github.com/omnipotent-front-end/blog/issues/6)

@@ -39,6 +39,8 @@
 
 - [如何封装CI专用的基础镜像](https://github.com/omnipotent-front-end/blog/issues/19)
 
+- [三方包依赖node版本过高，构建失败解决方案](https://github.com/omnipotent-front-end/blog/issues/21)
+
 ## 设计模式
 
 - [工厂模式](https://github.com/omnipotent-front-end/blog/issues/6)

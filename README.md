@@ -41,6 +41,10 @@
 
 - [三方包依赖node版本过高，构建失败解决方案](https://github.com/omnipotent-front-end/blog/issues/21)
 
+## 适配
+
+- [一文讲清大屏适配（四个屏幕也不怕）](https://github.com/omnipotent-front-end/blog/issues/22)
+
 ## 设计模式
 
 - [工厂模式](https://github.com/omnipotent-front-end/blog/issues/6)

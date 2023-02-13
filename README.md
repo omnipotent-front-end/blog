@@ -27,6 +27,10 @@
 
 - [前端全局替换图片服务cdn的解决方案](https://github.com/omnipotent-front-end/blog/issues/3)
 
+## 文件相关
+
+- [远程文件下载采坑指南](https://github.com/omnipotent-front-end/blog/issues/23)
+
 ## 计算机网络
 
 - [localhost启动https的方式](https://github.com/omnipotent-front-end/blog/issues/4)

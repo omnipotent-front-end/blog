@@ -2,6 +2,10 @@
 
 无所不能的前端
 
+## git
+
+- [基于git-bisect来快速找到bug所在提交记录](https://github.com/omnipotent-front-end/blog/issues/24)
+
 ## 语法基础与原理
 
 - [async/await在打包中的原理](https://github.com/omnipotent-front-end/blog/issues/14)

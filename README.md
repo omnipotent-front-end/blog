@@ -2,6 +2,10 @@
 
 无所不能的前端
 
+## AI
+
+- [写给小白的ChatGPT和AI原理](https://github.com/omnipotent-front-end/blog/issues/25)
+
 ## git
 
 - [基于git-bisect来快速找到bug所在提交记录](https://github.com/omnipotent-front-end/blog/issues/24)

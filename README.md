@@ -53,6 +53,8 @@
 
 - [三方包依赖node版本过高，构建失败解决方案](https://github.com/omnipotent-front-end/blog/issues/21)
 
+- [npm ERR! Could not resolve dependency;npm ERR! ERESOLVE unable to resolve dependency tree解决方案](https://github.com/omnipotent-front-end/blog/issues/26)
+
 ## 适配
 
 - [一文讲清大屏适配（四个屏幕也不怕）](https://github.com/omnipotent-front-end/blog/issues/22)

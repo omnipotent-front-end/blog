@@ -18,6 +18,7 @@
 
 - [vue技术栈前端建设方案](https://github.com/omnipotent-front-end/blog/issues/5)
 - [基于vue搭建前端工程](https://github.com/omnipotent-front-end/blog/issues/12)
+- [@vue/composition-api功能介绍](https://github.com/omnipotent-front-end/blog/issues/27)
 
 
 ## reactNative系列

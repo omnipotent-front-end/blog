@@ -57,6 +57,8 @@
 
 - [npm ERR! Could not resolve dependency;npm ERR! ERESOLVE unable to resolve dependency tree解决方案](https://github.com/omnipotent-front-end/blog/issues/26)
 
+- [Webpack迁移Vite采坑指南](https://github.com/omnipotent-front-end/blog/issues/29)
+
 ## 适配
 
 - [一文讲清大屏适配（四个屏幕也不怕）](https://github.com/omnipotent-front-end/blog/issues/22)

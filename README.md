@@ -9,6 +9,7 @@
 ## git
 
 - [基于git-bisect来快速找到bug所在提交记录](https://github.com/omnipotent-front-end/blog/issues/24)
+- [如何使用git-credentials来管理git账号](https://github.com/omnipotent-front-end/blog/issues/31)
 
 ## 语法基础与原理
 
